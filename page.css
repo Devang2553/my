@@ -1,0 +1,383 @@
+body{
+    background-image: url('./background.jpg');
+    background-size: contain;
+
+    
+}
+.navigation ul{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: x-large;
+    list-style: none;
+    padding-top: 4%;
+    
+    
+}
+.navigation li{
+    color: white;
+}
+.navigation a{
+    text-decoration: none;
+}
+.navigation a:hover{
+    
+    background-color: white;
+   
+   
+    text-align: center;
+}
+
+.navigation a:hover li{
+    color: black;
+}
+
+.heading {
+    text-align: center;
+    margin-top: 20%;
+    color: white;
+}
+.heading:hover{
+    font-size: 19px;
+    color: black;
+
+}
+.planning{
+    background-color: white;
+    padding-top: 5%;
+    margin-top: 23%;
+    
+
+}
+.phase1{
+    display: flex;
+    margin-left: 350px;
+    
+    
+}
+.text1{
+    background-color: lightgray;
+    padding: 2%;
+    border-right: 5px solid;
+    border-color: white;
+    padding-right: 10%;
+}
+.text1 h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.phase2{
+    display: flex;
+    margin-left: 280px;
+    padding-top: 1px;
+    border: 5px solid white;
+}
+.text2{
+   
+    padding: 2%;
+    border-left: 5px solid white;
+    color: rgb(194, 193, 193);
+}
+.line{
+    
+    height: 1px ;
+    border: 0ch;
+    background-color: black;
+    margin-right: 110px;
+}
+.awards{
+    display: flex;   
+}
+.line2{
+    height: 1px ;
+    background-color: black;
+    margin-right: 200px;
+
+}
+.line1{
+    height: 1px ;
+    background-color: black;
+    margin-left: 200px;
+
+}
+h3{
+    margin-top: -2px;
+}
+.icons {
+    justify-content: space-around;
+
+}
+.icons img{
+    margin-left: 200px;
+    opacity: .38;
+}
+
+
+.line4{
+    height: 1px ;
+    background-color: black;
+   
+
+}
+.icons2{
+    justify-content: space-evenly;
+}
+.icons2 img{
+    margin-left: 350px;
+    opacity: .38;
+}
+
+
+.place1{
+    display: flex;
+    align-items: center;
+    background-color: rgb(186,156,186);
+    margin-top: 0%;
+
+
+}
+.phase3{
+    margin-left: 350px;
+    margin-top: 0px;
+}
+.button a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius:5px ;
+}
+.place1 h1 ,.place1 p{
+    color: white;
+}
+
+.place1 hr{
+    background-color: white;
+}
+.img3{
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: -70px;
+}
+
+
+
+
+
+
+
+
+.place2{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    margin-top: 0%;
+    padding-bottom: 100px;
+
+
+}
+.phase4{
+    margin-left: 130px;
+    
+}
+.button a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    
+
+
+    border-radius:5px ;
+
+}
+
+.img4{
+    margin-left: 50px;
+    margin-top: -90px;
+    
+}
+.button1{
+    margin-left: -50px;
+    margin-top: 100px;
+    
+}
+.button1 a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+section{
+  
+
+    background-image: url('./background1.jpg ');
+    
+    background-size: cover;
+    padding-bottom: 30px;
+  
+}
+
+
+header{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.names{
+    display: flex;
+    justify-content: space-evenly;
+}
+.name1{
+    border-right: 2px solid black;
+    padding: 50px;
+    text-align: center;
+
+
+}
+
+.name3{
+    border-left: 2px solid black;
+    padding: 50px;
+    text-align: center;
+}
+.name2{
+    padding: 50px;
+    text-align: center;
+}
+
+.button2 a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(244, 196, 204);
+
+}
+
+
+
+.mywork{
+    background-color: rgb(238, 229, 231);
+    padding-top: 10px;
+}
+.mywork h1{
+    margin-left: 600px;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.photos{
+    display: flex;
+    margin-left: 300px;
+}
+.photo2{
+    padding-left: 1%;
+}
+.photo3{
+    margin-top: 250px;
+    padding-top: 50px;
+}
+
+.photo1{
+    margin-left: 300px;
+}
+.photo01{
+    display: flex;
+    margin-left: 100px;
+}
+.phase5{
+    margin-left: 100px;
+    color: rgb(194, 140, 149);
+}
+
+
+
+
+.card{
+    background-image: url('./background2.jpg');
+    background-size: cover;
+    
+}
+.photo4{
+    margin: 100px;
+    padding-left: 200px;
+}
+
+.phase6{
+    display: flex;
+    
+  
+}
+.cardt {
+    color: black;
+    margin-top: 200px;
+}
+.que{
+    background-color: white;
+    padding-bottom: 100px;
+}
+
+.he1{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.q{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.button3 a{
+    text-decoration: none;
+    color: white;
+    background-color:rgb(244, 196, 204) ;
+
+    
+}
+.button3{
+    text-align: center;
+    
+}
+    
+    
+.end{
+    background-color:rgb(244, 196, 204) ;
+    text-align: center;
+    padding-top: 100px;
+}
+.button4 a{
+    text-decoration: none;
+    color:rgb(244, 196, 204);
+    background-color:white ;
+
+}
+.all
+{
+    padding-top: 100px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.list{
+    border-right: 2px solid white;
+    padding-right: 50px;
+    
+    
+}
+.list3{
+    border-left: 2px solid white;
+    padding-left: 50px;
+    text-align: center;
+}
+footer{
+    background-color: rgb(88, 155, 255);
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
