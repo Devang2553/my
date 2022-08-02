@@ -1,0 +1,258 @@
+.navigation{
+    background-image: url(./722787.webp);
+    border-bottom: 5px solid orange;
+    height: 150px;
+
+}
+
+.navigation ul{
+    float: right; padding: 9px; font-size: 24; 
+}
+.navigation li{
+    
+    display: inline-block;
+    margin: 0px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    
+}
+.navigation a{
+    text-decoration: none; 
+    
+    
+}
+.navigation a:hover{
+    background-color: rgb(253, 246, 246);  padding: 5px; color: black;
+    border-radius: 10%;
+}
+
+
+.mywork{
+    padding-bottom: 17%;
+}
+.mywork h3{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-radius: 50px 50px
+                   50px 50px;
+    background-size: 2px;
+    margin: 0px 720px;
+    padding: 15px;
+    width: 10%;
+
+
+}
+.mywork h3:hover{
+    background-color: azure;
+    
+}
+
+.mywork a{
+    color: white;
+    text-decoration: none;
+   
+    
+}
+.mywork a:hover{
+
+    color: aliceblue;
+    border-radius: 10%;
+
+}
+.mywork h3:hover{
+    background-color:#002ead;
+    transition: 0.7s;
+}
+.middle{
+    display: flex;
+}
+.middle2{
+    display: flex;
+    background-color: grey;
+}
+
+.middle3{
+    display: flex;
+}
+.first{
+    display: flex;
+    
+}
+
+.first h1{
+    margin: 100px;
+
+}
+.text{
+    padding-left: 2%;
+}
+.text p{
+    font-size: 20px;
+    margin: 4%;
+    
+}
+.text .lower{
+    margin: 4%;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+footer */
+
+
+footer{
+    background-color: grey;
+    width: 100%;
+}
+.footer{
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.last h4{
+    color: white;
+}
+.last p{
+    font-size: 20px;
+}
+
+.last hr{
+    background-color: orange;
+    height: 2px;
+    border: 0;
+    width: 60%;
+    margin-left:10px ;
+    margin-bottom: 50px;
+}
+.navigate li{
+    display: block;
+    font-size: 20px;
+    padding: 5%;
+    margin: 2%;
+    
+    
+}
+.navigate a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.footer h4{
+    font-size: 22px;
+    color: white;
+    text-align: left;
+}
+.follow i{
+    font-size: 3em;
+}
+
+.follow hr{
+    background-color: orange;
+    height: 2px;
+    border: 0;
+    width: 50%;
+    margin-left:10px ;
+    
+}
+.email h1{
+    text-align: left;
+    color: white; 
+
+}
+.Phone h1{
+    color: white;
+    text-align: left;
+}
+
+
+.navigate h4{
+    font-size: 22px;
+    color: white;
+}
+.navigate hr{
+    background-color: orange;
+    height: 2px;
+    border: 0;
+    width: 60%;
+    margin-left:10px ;
+    
+}
+.all{
+        margin-right: 300px;
+
+
+    }
+.copy p{
+    flex-direction: column;
+    text-align: center;
+}
+.email{
+    margin-top: 50px;
+}
+.email i{
+    font-size: 3em;
+}
+.phone{
+    margin-top: 50px;
+}
+.phone i{
+    font-size: 3em;
+}
+
+.Phone a{
+    color: white;
+}
+
+.email a{
+    color: white;
+}
+.copy p{
+    color: white;
+}
+.last hr{
+    align-content: left;
+    width: 10%;
+    margin-inline: 10px;
+}
+
+.follow a{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+

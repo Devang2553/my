@@ -1,0 +1,332 @@
+.last1{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    padding: 2%;
+    align-items: top;
+    
+}
+
+
+.navigation{
+    
+    background-image: url('./722787.webp');
+    height: 150px;
+    border-bottom: 5px solid orange;
+
+}
+
+
+.navigation ul{
+    float: right; padding: 9px; font-size: 24; 
+}
+.navigation li{
+    
+    display: inline-block;
+    margin: 0px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    
+}
+.navigation a{
+    text-decoration: none; 
+    
+    
+}
+.navigation a:hover{
+    background-color: rgb(253, 246, 246);  padding: 5px; color: black;
+    border-radius: 10%;
+}
+
+.full{
+    font-size: xx-large;
+}
+#name{
+    margin: 20px;
+    padding: 10px;
+    margin-left: 40px;
+    width: 600px;
+}
+
+
+#tel{
+    margin: 30px;
+    padding: 10px;
+    width: 600px;
+}
+
+#email{
+    margin: 20px;
+    padding: 10px;
+    margin-left: 40px;
+    width: 600px;
+}
+#Address{
+    margin: 20px;
+    padding: 10px;
+    margin-left: 40px;
+    width: 600px;
+}
+
+#subject{
+    margin: 20px;
+    padding: 10px;
+    margin-left: 40px;
+    width: 600px;
+}
+.button{
+    display: inline-block;
+    padding: 0.8rem;
+    transition: all 0.5s;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(120, 117, 111);
+    width: 800px;
+    color: white;
+    font-size: 22px;
+}
+.button:hover{
+    background-color: orange;
+    animation-duration: 0.8s;
+}
+.textarea{
+    width: 85%;
+    height: 100px;
+
+}
+
+
+
+.navigation ul{
+    float: right; padding: 9px; font-size: 24; 
+}
+.navigation li{
+    
+    display: inline-block;
+    margin: 0px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+.navigation a{
+    text-decoration: none; 
+    
+    
+}
+#navigation a:hover{
+    background-color: rgb(253, 246, 246);  padding: 5px; color: black;
+    border-radius: 10%;
+}
+
+hr{
+    width: 10%;
+    text-align: center; 
+    height: 1px;
+    border: 0ch;
+    background-color: orange;
+    
+}
+
+
+.mid{
+    padding-bottom: 5%;
+
+}
+.addmap{
+    display: flex;
+    margin-top: 2%;
+    
+    
+    
+}
+
+.map{
+    background-color: rgb(120, 117, 111);
+    margin-bottom: 0%;
+    display: flex;
+    width: 100%;
+    height: 500px;
+    justify-content: space-around;
+    
+    
+}
+.addmap .map h2{
+    flex-direction: column;
+    color: white;
+    font-size: 30px;
+}
+iframe{
+    margin-top: 50px;
+}
+
+.map p{
+    
+    font-size: large;
+    color: white;
+}
+
+.text{
+    flex-direction: column;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+
+
+
+footer{
+    background-color: grey;
+    width: 100%;
+}
+.footer{
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.last h4{
+    color: white;
+}
+
+.last hr{
+    width: 40%;
+    margin-top: -10px;
+    margin-left: 10px;
+    background-color: orange;
+    border: 0ch;
+    height: 2px;
+}
+.last p{
+    font-size: 20px;
+}
+.navigate li{
+    display: block;
+    font-size: 20px;
+    padding: 5%;
+    margin: 2%;
+    
+    
+}
+.navigate a{
+    text-decoration: none;
+    color: black;
+}
+
+.navigate hr{
+    width: 50%;
+    margin-top: -10px;
+    margin-left: 10px;
+    background-color: orange;
+    border: 0ch;
+    height: 2px;
+}
+
+
+
+.footer h4{
+    font-size: 22px;
+    color: white;
+    text-align: left;
+}
+.follow i{
+    font-size: 3em;
+}
+
+.follow hr{
+    width: 40%;
+    margin-top: -10px;
+    margin-left: 10px;
+    background-color: orange;
+    border: 0ch;
+    height: 2px;
+}
+.email h1{
+    text-align: left;
+    color: white; 
+
+}
+
+
+
+
+
+.phone h1{
+    color: white;
+    text-align: left;
+}
+.navigate h4{
+    font-size: 22px;
+    color: white;
+}
+.all{
+        margin-right: 300px;
+
+
+    }
+.copy p{
+    flex-direction: column;
+    text-align: center;
+}
+.email{
+    margin-top: 50px;
+}
+.email i{
+    font-size: 3em;
+}
+.phone{
+    margin-top: 50px;
+    
+}
+.phone i{
+    font-size: 3em;
+
+}
+.Phone h1{
+    color: white;
+} 
+
+.copy p{
+    color: white;
+}
+.last hr{
+    align-content: left;
+    width: 10%;
+    margin-inline: 10px;
+}
+
+
+.follow a{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

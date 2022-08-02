@@ -1,0 +1,281 @@
+
+#navigation ul{
+    float: right; padding: 9px; font-size: 24; 
+}
+#navigation li{
+
+    display: inline-block;
+    margin: 0px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#navigation a{
+    text-decoration: none; 
+    
+    
+}
+#navigation a:hover{
+    background-color: rgb(253, 246, 246);  padding: 5px; color: black;
+    border-radius: 10%;
+}
+
+ h1{
+    text-align: center; font-family: Arial, Helvetica, sans-serif; color: rgb(0, 0, 0); padding: 2%;
+    
+}
+h2{
+    text-align: center; font-family: Arial, Helvetica, sans-serif; color: rgb(0, 0, 0); padding: 2%; text-decoration: underline;
+}
+.show{
+text-decoration: solid;
+}
+.hidden{
+    visibility: hidden;
+}
+.show:hover + .hidden{
+    visibility: visible;
+}
+
+h3{
+    text-align: center; 
+}
+.mywork{
+    padding-bottom: 17%;
+    
+}
+.mywork h3{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border-radius: 50px 50px
+                   50px 50px;
+    background-size: 2px;
+    margin: 0px 660px;
+    padding: 15px;
+    width: 10%;
+    
+
+
+}
+.mywork h3:hover{
+    background-color: azure;
+    
+}
+
+.mywork a{
+    color: white;
+    text-decoration: none;
+   
+    
+}
+.mywork a:hover{
+
+    color: aliceblue;
+    border-radius: 10%;
+
+}
+.mywork h3:hover{
+    background-color:#002ead;
+    transition: 0.7s;
+}
+.mid h1{
+    text-align: center;
+}
+.mid{
+    background-color: white;
+    padding-bottom: 7%;
+    width: 100%;    
+}
+.mid hr{
+    width: 7%;
+    height: 2px;
+    background-color: orange;
+    margin-top: -2%;
+    border: 0;
+    
+
+}
+.mid h2{
+    text-decoration: none;
+}
+.boxes i{
+    margin:0px 40px;
+    font-size: 2em;
+}
+.boxes i:hover{
+    color: orange;
+    animation-duration: 2s;
+
+    
+}
+.files{
+    text-align: center;
+}
+.files h2{
+    text-align: center;
+}
+
+.boxes{
+    display: flex;
+    justify-content: space-around;
+    padding: 5%;
+    text-align: center;
+}
+footer{
+    background-color: grey;
+}
+.footer{
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+.last h4{
+    color: white;
+}
+.tags{
+    display: flex;
+    justify-content: space-around;
+    
+    
+    
+
+}
+.tags h1{
+    text-align: center;
+}
+.tags i{
+    font-size: 5em;
+}
+.client1{
+    background-color: gray;
+    text-align: center;
+    padding: 5%;
+    padding-top: 7%;
+    width: 20%;
+
+    
+
+}
+.client2{
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 5%;
+    padding-top: 7%;
+    width: 20%;
+    
+
+}
+.client1,.client2 h1{
+    text-align: center;
+}
+.file1 i{
+    font-size: 10em;
+}
+.last p{
+    font-size: 20px;
+}
+
+.last hr{
+    height: 2px;
+    border: 0;
+    background-color: orange;
+    width: 50%;
+    margin-right: 90px;
+    margin-top: -4%;
+}
+.navigate li{
+    display: block;
+    font-size: 20px;
+    padding: 5%;
+    margin: 2%;
+    
+}
+.navigate a{
+    text-decoration: none;
+    color: black;
+}
+
+.navigate hr{
+    height: 2px;
+    border: 0;
+    background-color: orange;
+    width: 44%;
+    margin-right: 50px;
+    margin-top: -7%;
+}
+
+
+
+.footer h4{
+    font-size: 22px;
+    color: white;
+}
+.follow i{
+    font-size: 3em;
+}
+
+.follow hr{
+    height: 2px;
+    border: 0;
+    background-color: orange;
+    width: 44%;
+    margin-right: 110px;
+    margin-top: -4%;
+}
+.email h1{
+    text-align: left;
+    color: white; 
+
+}
+
+.Phone h1{
+    color: white;
+    text-align: left;
+}
+
+
+.navigate h4{
+    font-size: 22px;
+    color: white;
+}
+.all{
+    margin-right: 300px;
+
+
+}
+.copy p{
+    flex-direction: column;
+    text-align: center;
+}
+.email{
+    margin-top: 50px;
+}
+.email i{
+    font-size: 3em;
+}
+.email hr{
+    margin-left: 10px;
+}
+.phone{
+    margin-top: 50px;
+}
+.phone i{
+    font-size: 3em;
+}
+.copy p{
+    color: white;
+}
+.last hr{
+    align-content: left;
+    width: 20%;
+    margin-inline: 5px;
+}
+.file1 i:hover{
+    font-size: 15em;
+
+}
+.follow a{
+    color: white;
+}
